@@ -1,0 +1,54 @@
+Hi, We're Coffeed.
+Find your favorite office away from home. We're curating some of the best coffee shops to successfully work, meet & thrive at.
+
+
+img/svg/python_flag.svg
+Discover Amazing Spots
+Coffeed works hard to curate the best coffee places for independent working- so that you can hit those deadlines.
+
+img/svg/python_badge.svg
+Review Your Favorites
+Find out what other people are saying and chime in with your opinion. Help each other find the best work locale.
+
+img/svg/python_rocket.svg
+Promote Your Business
+Anyone can add their coffee shop location to Coffeed for free. Sit back, relax & watch the reviews pour in.
+
+
+
+Our Caffeinated Team
+Working hard to find you the best of the best.
+
+Kristina Zmaic
+Founder & Designer
+https://twitter.com/kzmaic
+https://instagram.com/kzmaic/
+
+Eric Neuman
+Web & Business Development
+https://twitter.com/eric_neuman
+https://instagram.com/eric_neuman
+https://www.linkedin.com/in/ericneuman
+
+Chris Castiglione
+Project Management
+https://twitter.com/castig
+https://instagram.com/castig
+http://www.linkedin.com/in/castig
+
+https://twitter.com/getcoffeed
+https://www.facebook.com/getcoffeed
+
+
+
+<div id="mc_embed_signup">
+    <form action="//onemonth.us7.list-manage.com/subscribe/post?u=0906b75c0e799fc3ea1dbf935&amp;id=612428ba89" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div class="form-group">
+            <input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="email address" required style="width: 300px;">
+        </div>
+        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">
+    </form>
+</div>
+
+Be the first to find out.
+We'll be launching soon, so sign up to be one of the first to be invited.
